@@ -1,23 +1,35 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
+import axios from 'axios';
+import Home from './page/Home';
 
 function App() {
+  const [data,setData]=useState({
+    name:'',
+    age:'',
+    email:''
+  })
+  const {name,age,email}=data
+  const handleChange=(e)=>{
+    setData({
+      ...data,[e.target.name]:e.target.value
+    })
+  }
+  const handleSubmit=()=>{
+    let nData=JSON.stringify(data)
+    // axios.post('http://localhost:3000/')
+    let n=fetch('http://localhost:3000/',{
+      headers:'test',
+      body:nData
+    }).then((req,res)=>{
+      
+    })
+  }
+  console.log(data)
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Home/>
     </div>
   );
 }

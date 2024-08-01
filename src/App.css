@@ -1,38 +1,83 @@
-.App {
+html {
+  scroll-behavior: smooth;
+}
+
+.download_button{
+  border: 1px solid #2f3c4f;
+    background-color: #2f3c4f;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+.icond{
+  padding-top: 5px;
+}
+.padding {
+  padding: 4em 0 0 0 !important;
+}
+.mar_2{
+  margin-bottom: 2em !important;
+}
+
+.projects {
+  padding: 10px 0px;
+  height: 110px;
+  color: white !important;
+  border: 1px solid white !important;
+  display: block;
+  cursor: pointer;
+
+}
+
+.projects h3 {
+  color: white !important;
+}
+.projectDetails{
+  margin-top: 31px;
+  border-top: 2px solid white;
+  padding: 10px;
+}
+
+.projectSec{
+  padding: 20px 0px 20px 0px !important;
+}
+.margin2top{
+  margin-top: 5px;
+}
+
+.margintop1{
+  margin-top:10px;
+}
+
+.main0{
+  background-color: #2F3C4F;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  opacity: 1;
+  z-index: 1000;
+
+}
+.topnav {
+  overflow: hidden;
+  /* background-color: #333; */
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
   text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.topnav a.active {
+  /* background-color: #336b57; */
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

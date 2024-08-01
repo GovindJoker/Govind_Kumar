@@ -2,15 +2,25 @@ import React from 'react'
 import { FaCloudDownloadAlt } from "react-icons/fa";
 import { FaBuildingColumns } from "react-icons/fa6";
 import { MdOutlineCastForEducation } from "react-icons/md";
+import pdf from '../../assets/pdf/govind.pdf'
 
 const Resume = () => {
+	const handleDownload = () => {
+		const url = '/assets/pdf/govind.pdf'; // Path relative to the public directory
+		const link = document.createElement('a');
+		link.href = url;
+		link.download = 'govind.pdf'; // Optional: specify a filename
+		document.body.appendChild(link); // Append the link to the body
+		link.click(); // Trigger the download
+		document.body.removeChild(link); // Clean up
+	  };
 	return (
 		<div id="fh5co-resume" class="fh5co-bg-color padding">
 			<div class="container">
 				<div class="row ">
 					<div class="col-md-8 mar_2 col-md-offset-2 text-center fh5co-heading">
 						<h2>My Resume</h2>
-						<a className='download_button' href='/assets/pdf/govind.pdf'>Download &nbsp; <FaCloudDownloadAlt className='icond' size={20} /></a>
+						<button className='download_button' onClick={handleDownload}>Download &nbsp; <FaCloudDownloadAlt className='icond' size={20} /></button>
 					</div>
 				</div>
 				<div class="row">

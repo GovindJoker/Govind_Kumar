@@ -47,7 +47,7 @@
   }
   
   a {
-    color: #FF9000;
+    color: #ffffff;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
@@ -100,7 +100,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(255, 144, 0, 0.9);
+    background: #2F3C4F;
   }
   #fh5co-header .display-t,
   .fh5co-cover .display-t {
@@ -308,7 +308,7 @@
   
   .fh5co-bg-dark {
     background: #2F3C4F;
-    background: #FF9000;
+    background: #2F3C4F;
   }
   .fh5co-bg-dark .fh5co-heading h2 {
     color: #fff !important;
@@ -406,7 +406,7 @@
   }
   
   .fh5co-heading {
-    margin-bottom: 5em;
+    margin-bottom: 1em;
   }
   .fh5co-heading.fh5co-heading-sm {
     margin-bottom: 2em;
@@ -525,14 +525,14 @@
     color: #fff;
     width: 44px;
     height: 44px;
-    line-height: 50px;
+    line-height: 45px;
     font-size: 1.4em;
     text-align: center;
     position: absolute;
     top: 40px;
     left: 50%;
     margin-left: -21px;
-    background-color: #FF9000;
+    background-color: #2f3c4f;
     z-index: 100;
     display: table;
     -webkit-border-radius: 50%;

@@ -12,7 +12,7 @@ const AboutMe = () => {
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-5 overflow-hidden">
 						<ul class="info">
 							<li><span class="first-block">Full Name:</span><span class="second-block">Govind Kumar</span></li>
 							<li><span class="first-block">Phone:</span><span class="second-block">+91 7905205343</span>
@@ -24,16 +24,16 @@ const AboutMe = () => {
 							<li><span class="first-block">Github:</span><span class="second-block">https://github.com/GovindJoker</span></li>
 						</ul>
 					</div>
-					<div class="col-md-8">
+					<div class="col-md-7">
 						<p>
 							Hello! I’m Govind Kumar, a passionate React.js developer with 2.2 years of experience in building dynamic and responsive web applications. Over the course of my career, I have successfully completed 7 to 10 projects using React.js, which has honed my skills in creating intuitive and engaging user interfaces.
 						</p>
 						<p>
 							In addition to my expertise in front-end development, I have experience working with Node.js and Express.js on the backend, allowing me to build full-stack applications and integrate front-end and back-end seamlessly.
 						</p>
-						<p>
+						{/* <p>
 							I thrive on tackling new challenges and continuously improving my skills to deliver high-quality solutions. Whether it's enhancing user experiences or optimizing application performance, I’m dedicated to producing results that meet both user needs and technical standards.
-						</p>
+						</p> */}
 						<p>
 							Feel free to explore my projects and get in touch if you have any questions or opportunities to collaborate!
 						</p>

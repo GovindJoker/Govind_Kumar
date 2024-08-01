@@ -1,5 +1,7 @@
 import React from 'react'
 import { FaCloudDownloadAlt } from "react-icons/fa";
+import { FaBuildingColumns } from "react-icons/fa6";
+import { MdOutlineCastForEducation } from "react-icons/md";
 
 const Resume = () => {
 	return (
@@ -20,7 +22,7 @@ const Resume = () => {
 								</div>
 							</li>
 							<li class=" timeline-unverted">
-								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+								<div class="timeline-badge"><FaBuildingColumns size={20}/></div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">React Js Developer</h3>
@@ -37,7 +39,7 @@ const Resume = () => {
 								</div>
 							</li>
 							<li class="timeline-inverted ">
-								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+								<div class="timeline-badge"><FaBuildingColumns size={20}/></div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">Web Developer</h3>
@@ -61,7 +63,7 @@ const Resume = () => {
 								</div>
 							</li>
 							<li class="timeline-inverted ">
-								<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+								<div class="timeline-badge"><MdOutlineCastForEducation size={20}/></div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">Master of Computer Applications</h3>
@@ -73,7 +75,7 @@ const Resume = () => {
 								</div>
 							</li>
 							<li class=" timeline-unverted">
-								<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+								<div class="timeline-badge"><MdOutlineCastForEducation size={20}/></div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">Bachelor of Computer Applications</h3>

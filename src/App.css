@@ -46,7 +46,7 @@ html {
 }
 
 .margintop1{
-  margin-top:10px;
+  margin-top:10px !important;
 }
 
 .main0{
@@ -80,4 +80,9 @@ html {
 .topnav a.active {
   /* background-color: #336b57; */
   color: white;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+  word-wrap: break-word;
 }

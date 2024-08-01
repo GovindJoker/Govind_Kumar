@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: #2F3C4F;
+  background: rgba(255, 144, 0, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #2F3C4F;
+  background: #FF9000;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #2F3C4F;
+  background-color: #FF9000;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -1291,40 +1291,3 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
-
-.margintop1{
-  margin-top:10px;
-}
-
-.main0{
-  background-color: #2F3C4F;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  opacity: 1;
-  z-index: 1000;
-
-}
-.topnav {
-  overflow: hidden;
-  /* background-color: #333; */
-}
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  /* background-color: #336b57; */
-  color: white;
-}

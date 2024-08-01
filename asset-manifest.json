@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Govind_Kumar/static/css/main.9ad59532.css",
-    "main.js": "/Govind_Kumar/static/js/main.0d3a2284.js",
-    "static/js/453.030ddbac.chunk.js": "/Govind_Kumar/static/js/453.030ddbac.chunk.js",
+    "main.css": "/Govind_Kumar/static/css/main.31d23a14.css",
+    "main.js": "/Govind_Kumar/static/js/main.8719ae4f.js",
+    "static/js/453.5d883a73.chunk.js": "/Govind_Kumar/static/js/453.5d883a73.chunk.js",
+    "static/media/govind.pdf": "/Govind_Kumar/static/media/govind.b50ec2927f8f80433aa1.pdf",
     "static/media/icomoon.svg?srf3rx": "/Govind_Kumar/static/media/icomoon.d8bb08cd812ea9df189b.svg",
     "static/media/user3.jpg": "/Govind_Kumar/static/media/user3.5ec67f945b5443d4f521.jpg",
     "static/media/icomoon.eot?srf3rx": "/Govind_Kumar/static/media/icomoon.f53fba8098384bb57298.eot",
@@ -10,12 +11,12 @@
     "static/media/icomoon.ttf?srf3rx": "/Govind_Kumar/static/media/icomoon.ba5dacb825a6f0dc1276.ttf",
     "static/media/logo.svg": "/Govind_Kumar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Govind_Kumar/index.html",
-    "main.9ad59532.css.map": "/Govind_Kumar/static/css/main.9ad59532.css.map",
-    "main.0d3a2284.js.map": "/Govind_Kumar/static/js/main.0d3a2284.js.map",
-    "453.030ddbac.chunk.js.map": "/Govind_Kumar/static/js/453.030ddbac.chunk.js.map"
+    "main.31d23a14.css.map": "/Govind_Kumar/static/css/main.31d23a14.css.map",
+    "main.8719ae4f.js.map": "/Govind_Kumar/static/js/main.8719ae4f.js.map",
+    "453.5d883a73.chunk.js.map": "/Govind_Kumar/static/js/453.5d883a73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ad59532.css",
-    "static/js/main.0d3a2284.js"
+    "static/css/main.31d23a14.css",
+    "static/js/main.8719ae4f.js"
   ]
 }

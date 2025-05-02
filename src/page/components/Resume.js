@@ -19,6 +19,23 @@ const Resume = () => {
 									<h3>Work Experience</h3>
 								</div>
 							</li>
+							<li class="timeline-inverted ">
+								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Web Developer</h3>
+										<span class="company">Script Space Private Limited  &nbsp;&nbsp; Aug 2024 - Jan 2025</span>
+									</div>
+									<div class="timeline-body">
+										<h4>Role and responsbilities</h4>
+										<p>•	Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
+										<p>•	Design and implement reusable, efficient components and front-end libraries for future use. </p>
+										<p>•	Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
+										<p>•	Debug and resolve technical issues in a timely manner to maintain the smooth operation of the application</p>
+										<p>•	Contribute to project planning and provide input on improving the development process and workflow.</p>
+									</div>
+								</div>
+							</li>
 							<li class=" timeline-unverted">
 								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 								<div class="timeline-panel">

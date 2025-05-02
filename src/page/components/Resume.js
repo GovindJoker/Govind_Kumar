@@ -41,7 +41,7 @@ const Resume = () => {
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">React Js Developer</h3>
-										<span class="company">ZonSource IT solutions Pvt Ltd  &nbsp; &nbsp; Feb 2023 - Jan 2024</span>
+										<span class="company">ZonSource IT solutions Pvt Ltd  &nbsp; &nbsp; Feb 2023 - July 2024</span>
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>

@@ -23,7 +23,7 @@ const Header = () => {
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<div class="display-t js-fullheight">
 							<div class="display-tc js-fullheight" data-animate-effect="fadeIn">
-								<div class="profile-thumb" style={{ backgroundImage: `url(/assets/images/user3.jpg)` }}></div>
+								<div class="profile-thumb" style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/user3.jpg)` }}></div>
 								<h1><span>Govind Kumar</span></h1>
 								<h3><span>Web Developer / React Js Developer</span></h3>
 								<p>

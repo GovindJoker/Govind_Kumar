@@ -25,7 +25,7 @@ const Header = () => {
 							<div class="display-tc js-fullheight" data-animate-effect="fadeIn">
 								<div class="profile-thumb" style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/user3.jpg)` }}></div>
 								<h1><span>Govind Kumar</span></h1>
-								<h3><span>Web Developer / React Js Developer</span></h3>
+								<h3><span>Web Developer / React Js Developer / MERN Stack Developer</span></h3>
 								<p>
 									<ul class="fh5co-social-icons margintop1">
 										<li><a href="https://www.linkedin.com/in/govind-kumar17"><FaLinkedin size={25}/> </a></li>

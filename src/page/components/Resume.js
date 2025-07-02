@@ -25,7 +25,7 @@ const Resume = () => {
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">Web Developer</h3>
-										<span class="company">Script Space Private Limited  &nbsp;&nbsp; Aug 2024 - Jan 2025</span>
+										<span class="company">India InfoSoft Pvt Ltd  &nbsp;&nbsp; Feb 2024 – Present</span>
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>
@@ -42,7 +42,7 @@ const Resume = () => {
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">React Js Developer</h3>
-										<span class="company">ZonSource IT solutions Pvt Ltd  &nbsp; &nbsp; Feb 2023 - July 2024</span>
+										<span class="company">ZonSource IT solutions Pvt Ltd  &nbsp; &nbsp; Feb 2023 - Jan 2024</span>
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>
@@ -50,7 +50,7 @@ const Resume = () => {
 										<p>•	Collaborate with designers to transform UI/UX designs into functional, engaging user interfaces.</p>
 										<p>•	Optimize components for maximum performance across a vast array of web-capable devices and browsers.</p>
 										<p>•	Integrate with back-end services to deliver end-to-end functionality using RESTful APIs.</p>
-
+		
 									</div>
 								</div>
 							</li>

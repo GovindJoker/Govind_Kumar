@@ -50,7 +50,7 @@ const Resume = () => {
 										<p>•	Collaborate with designers to transform UI/UX designs into functional, engaging user interfaces.</p>
 										<p>•	Optimize components for maximum performance across a vast array of web-capable devices and browsers.</p>
 										<p>•	Integrate with back-end services to deliver end-to-end functionality using RESTful APIs.</p>
-		
+		 
 									</div>
 								</div>
 							</li>

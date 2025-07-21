@@ -24,11 +24,12 @@ const Resume = () => {
 								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
-										<h3 class="timeline-title">Web Developer</h3>
-										<span class="company">India InfoSoft Pvt Ltd  &nbsp;&nbsp; Feb 2024 – Present</span>
+										<h3 class="timeline-title">Back-End Developer </h3>
+										<span class="company">Script Space Journals Pvt Ltd  &nbsp;&nbsp; Aug  2024 –Jan 2025</span>
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>
+										<p>•	Developed a full-stack web application by converting the existing PHP-based site into a modern solution using React, Node.js, Express, and MySQL. </p>
 										<p>•	Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
 										<p>•	Design and implement reusable, efficient components and front-end libraries for future use. </p>
 										<p>•	Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
@@ -42,7 +43,7 @@ const Resume = () => {
 								<div class="timeline-panel">
 									<div class="timeline-heading">
 										<h3 class="timeline-title">React Js Developer</h3>
-										<span class="company">ZonSource IT solutions Pvt Ltd  &nbsp; &nbsp; Feb 2023 - Jan 2024</span>
+										<span class="company">ZonSource IT solutions Pvt Ltd  &nbsp; &nbsp; Feb 2023 - July 2024</span>
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>

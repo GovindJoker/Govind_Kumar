@@ -25,6 +25,7 @@ const Work = () => {
 									<span className='projects'>
 										<div class="desc">
 											<h3>{val.name}</h3>
+											<a href={val.link} target='_blank'>Go to website</a>
 											<span>Illustration</span>
 										</div>
 									</span>
@@ -40,8 +41,8 @@ const Work = () => {
 								{
 									selectedProject?.detailsList.map((val, ind) => {
 										return (
-											<p style={{color:'white'}}>
-												<FaRegHandPointRight size={15} /> <strong>{val.heading}</strong> {val.details}
+											<p style={{color:'white'}} >
+												<FaRegHandPointRight size={15} /> <strong>{val.heading}</strong> <span dangerouslySetInnerHTML={{ __html: val.details }}></span>
 											</p>
 										)
 									})

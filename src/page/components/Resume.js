@@ -9,7 +9,7 @@ const Resume = () => {
 					<div class="col-md-8 mar_2 col-md-offset-2 text-center fh5co-heading">
 						<h2>My Resume</h2>
 						{/* `url(${process.env.PUBLIC_URL}/assets/images/user3.jpg)` */}
-						<a className='download_button' href={`${process.env.PUBLIC_URL}/assets/pdf/govindkumarMERN.pdf`}>Download Resume &nbsp; <FaCloudDownloadAlt className='icond' size={20} /></a>
+						<a className='download_button' href={`${process.env.PUBLIC_URL}/assets/pdf/govind.pdf`}>Download Resume &nbsp; <FaCloudDownloadAlt className='icond' size={20} /></a>
 					</div>
 				</div>
 				<div class="row">
@@ -29,12 +29,12 @@ const Resume = () => {
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>
-										<p>•	Developed a full-stack web application by converting the existing PHP-based site into a modern solution using React, Node.js, Express, and MySQL. </p>
-										<p>•	Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
-										<p>•	Design and implement reusable, efficient components and front-end libraries for future use. </p>
-										<p>•	Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
-										<p>•	Debug and resolve technical issues in a timely manner to maintain the smooth operation of the application</p>
-										<p>•	Contribute to project planning and provide input on improving the development process and workflow.</p>
+										<p>• Developed a full-stack web application by converting the existing PHP-based site into a modern solution using React, Node.js, Express, and MySQL. </p>
+										<p>• Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
+										<p>• Design and implement reusable, efficient components and front-end libraries for future use. </p>
+										<p>• Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
+										<p>• Debug and resolve technical issues in a timely manner to maintain the smooth operation of the application</p>
+										<p>• Co ntribute to project planning and provide input on improving the development process and workflow.</p>
 									</div>
 								</div>
 							</li>
@@ -48,9 +48,9 @@ const Resume = () => {
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>
 										<p>• Develop and maintain web applications using React.js, ensuring high performance and responsiveness.</p>
-										<p>•	Collaborate with designers to transform UI/UX designs into functional, engaging user interfaces.</p>
-										<p>•	Optimize components for maximum performance across a vast array of web-capable devices and browsers.</p>
-										<p>•	Integrate with back-end services to deliver end-to-end functionality using RESTful APIs.</p>
+										<p>• Collaborate with designers to transform UI/UX designs into functional, engaging user interfaces.</p>
+										<p>• Optimize components for maximum performance across a vast array of web-capable devices and browsers.</p>
+										<p>• Integrate with back-end services to deliver end-to-end functionality using RESTful APIs.</p>
 		 
 									</div>
 								</div>
@@ -64,11 +64,11 @@ const Resume = () => {
 									</div>
 									<div class="timeline-body">
 										<h4>Role and responsbilities</h4>
-										<p>•	Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
-										<p>•	Design and implement reusable, efficient components and front-end libraries for future use. </p>
-										<p>•	Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
-										<p>•	Debug and resolve technical issues in a timely manner to maintain the smooth operation of the application</p>
-										<p>•	Contribute to project planning and provide input on improving the development process and workflow.</p>
+										<p>• Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
+										<p>• Design and implement reusable, efficient components and front-end libraries for future use. </p>
+										<p>• Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
+										<p>• Debug and resolve technical issues in a timely manner to maintain the smooth operation of the application</p>
+										<p>• Contribute to project planning and provide input on improving the development process and workflow.</p>
 									</div>
 								</div>
 							</li>

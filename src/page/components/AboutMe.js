@@ -26,7 +26,7 @@ const AboutMe = () => {
 					</div>
 					<div class="col-md-8">
 						<p>
-							Hello! I’m Govind Kumar, a passionate React.js developer with 3.4 years of experience in building dynamic and responsive web applications. Over the course of my career, I have successfully completed 7 to 10 projects using React.js, which has honed my skills in creating intuitive and engaging user interfaces.
+							Hello! I’m Govind Kumar, a passionate React.js developer with 1 year 11 months of experience in building dynamic and responsive web applications. Over the course of my career, I have successfully completed 7 to 10 projects using React.js, which has honed my skills in creating intuitive and engaging user interfaces.
 						</p>
 						<p>
 							In addition to my expertise in front-end development, I have experience working with Node.js and Express.js on the backend, allowing me to build full-stack applications and integrate front-end and back-end seamlessly.

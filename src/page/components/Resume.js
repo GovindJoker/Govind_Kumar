@@ -8,7 +8,7 @@ const Resume = () => {
 				<div class="row ">
 					<div class="col-md-8 mar_2 col-md-offset-2 text-center fh5co-heading">
 						<h2>My Resume</h2>
-						{/* `url(${process.env.PUBLIC_URL}/assets/images/user3.jpg)` */}
+						{/* `url(${process.env.PUBLIC_URL}/assets/images/user3.jpg)` */ } 
 						<a className='download_button' href={`${process.env.PUBLIC_URL}/assets/pdf/govindkumar.pdf`}>Download Resume &nbsp; <FaCloudDownloadAlt className='icond' size={20} /></a>
 					</div>
 				</div>

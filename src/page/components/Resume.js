@@ -17,7 +17,7 @@ const Resume = () => {
 						<ul class="timeline">
 							<li class="timeline-heading text-center ">
 								<div>
-									<h3>Work Experience</h3>
+									<h3>Work Experience test</h3>
 								</div>
 							</li>
 							<li class="timeline-inverted ">

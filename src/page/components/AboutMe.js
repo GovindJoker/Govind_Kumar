@@ -41,7 +41,7 @@ const AboutMe = () => {
 							<ul class="fh5co-social-icons">
 								<li><a href="https://www.linkedin.com/in/govind-kumar17"><FaLinkedin size={25} /> </a></li>
 								<li><a href="https://github.com/GovindJoker"><FaGithub size={25} /></a></li>
-								<li><a href="#"><FaTwitter size={25} /></a></li>
+								<li><a href=""><FaTwitter size={25} /></a></li>
 							</ul>
 						</p>
 					</div>

@@ -24,7 +24,25 @@ const Resume = () => {
 								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 								<div class="timeline-panel">
 									<div class="timeline-heading">
-										<h3 class="timeline-title">Back-End Developer </h3>
+										<h3 class="timeline-title">Full Stack Developer</h3>
+										<span class="company">India Infosoft Pvt Ltd  &nbsp;&nbsp; Nov 2021 - Jan 2023</span>
+									</div>
+									<div class="timeline-body">
+										<h4>Role and responsbilities</h4>
+										<p>• Developed and maintained full-stack web applications using Node.js, Express.js, React.js, MongoDB, and SQL. </p>
+										<p>• Designed and developed RESTful APIs using Node.js and Express.js, implementing business logic, authentication, validation, CRUD operations, and API integrations. </p>
+										<p>• Worked extensively with MongoDB and SQL databases, designing schemas, writing queries, managing relationships, and implementing database-driven features. </p>
+										<p>• Built and integrated backend services with React.js applications, handling API communication, data management, and application state using Redux and Context API.</p>
+										<p>• Developed reusable backend modules, middleware, controllers, and API services to improve code maintainability and scalability.</p>
+										<p>• Debugged and resolved backend, database, API integration, and frontend issues while collaborating with developers to deliver production features.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-inverted ">
+								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">MERN Stack Developer </h3>
 										<span class="company">Script Space Journals Pvt Ltd  &nbsp;&nbsp; Aug  2024 –Jan 2025</span>
 									</div>
 									<div class="timeline-body">
@@ -55,23 +73,7 @@ const Resume = () => {
 									</div>
 								</div>
 							</li>
-							<li class="timeline-inverted ">
-								<div class="timeline-badge"><i class="icon-suitcase"></i></div>
-								<div class="timeline-panel">
-									<div class="timeline-heading">
-										<h3 class="timeline-title">Web Developer</h3>
-										<span class="company">Acompworld Technosoft Pvt Ltd  &nbsp;&nbsp; Nov 2021 - Jan 2023</span>
-									</div>
-									<div class="timeline-body">
-										<h4>Role and responsbilities</h4>
-										<p>• Implement state management solutions using Redux or Context API to manage application state efficiently. </p>
-										<p>• Design and implement reusable, efficient components and front-end libraries for future use. </p>
-										<p>• Develop dynamic web applications and user interfaces using React.js, ensuring seamless user experiences. </p>
-										<p>• Debug and resolve technical issues in a timely manner to maintain the smooth operation of the application</p>
-										<p>• Contribute to project planning and provide input on improving the development process and workflow.</p>
-									</div>
-								</div>
-							</li>
+							
 
 							<br />
 							<li class="timeline-heading text-center ">

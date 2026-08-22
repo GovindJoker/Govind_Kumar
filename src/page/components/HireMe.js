@@ -1,6 +1,5 @@
 import React from 'react'
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { CgMail } from "react-icons/cg";
 import { MdOutgoingMail } from "react-icons/md";
 
 const HireMe = () => {

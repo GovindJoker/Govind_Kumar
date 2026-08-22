@@ -5,7 +5,6 @@ import Resume from './components/Resume'
 import Skills from './components/Skills'
 import Work from './components/Work'
 import HireMe from './components/HireMe'
-import ContectUs from './components/ContectUs'
 
 const Home = () => {
   return (
